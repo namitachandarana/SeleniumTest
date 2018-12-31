@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbdbb034-93a7-4a05-88f0-0c07f9f30d78" name="Default Changelist" comment="" />
+    <list default="true" id="fbdbb034-93a7-4a05-88f0-0c07f9f30d78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CreateAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CreateAccount.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -66,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CreateAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="257">
+              <caret line="26" column="103" selection-start-line="26" selection-start-column="103" selection-end-line="26" selection-end-column="103" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,6 +87,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -98,6 +104,7 @@
     <option name="width" value="1939" />
     <option name="height" value="1099" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -211,22 +218,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CreateAccount - 2018.12.28 at 10h 47m 49s.xml">
+    <history-entry file="CreateAccount - 2018.12.31 at 15h 45m 08s.xml">
       <configuration name="CreateAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateAccount - 2018.12.28 at 13h 07m 02s.xml">
+    <history-entry file="CreateAccount - 2018.12.31 at 15h 47m 02s.xml">
       <configuration name="CreateAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateAccount - 2018.12.28 at 13h 12m 44s.xml">
+    <history-entry file="CreateAccount - 2018.12.31 at 15h 47m 43s.xml">
       <configuration name="CreateAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateAccount - 2018.12.28 at 13h 13m 03s.xml">
+    <history-entry file="CreateAccount - 2018.12.31 at 15h 48m 45s.xml">
       <configuration name="CreateAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateAccount - 2018.12.28 at 17h 42m 21s.xml">
+    <history-entry file="CreateAccount - 2018.12.31 at 16h 01m 37s.xml">
       <configuration name="CreateAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateAccount - 2018.12.31 at 09h 26m 44s.xml">
+    <history-entry file="CreateAccount - 2018.12.31 at 16h 02m 09s.xml">
+      <configuration name="CreateAccount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateAccount - 2018.12.31 at 16h 03m 40s.xml">
+      <configuration name="CreateAccount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateAccount - 2018.12.31 at 16h 08m 41s.xml">
+      <configuration name="CreateAccount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateAccount - 2018.12.31 at 16h 09m 07s.xml">
+      <configuration name="CreateAccount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateAccount - 2018.12.31 at 16h 12m 12s.xml">
       <configuration name="CreateAccount" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -274,8 +293,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CreateAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="257">
+          <caret line="26" column="103" selection-start-line="26" selection-start-column="103" selection-end-line="26" selection-end-column="103" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
